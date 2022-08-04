@@ -7,6 +7,9 @@
 
 //////////// REPEAT A STRING  REPEAT A STRING ///////////////////
 
+//Repeat a given string str (first argument) for num times (second argument). 
+//Return an empty string if num is not a positive number. For the purpose of this challenge, do not use the built-in .repeat() method.
+
 // repeatStringNumTimes("*", 3) should return the string ***.
 // Passed:repeatStringNumTimes("abc", 3) should return the string abcabcabc.
 // Passed:repeatStringNumTimes("abc", 4) should return the string abcabcabcabc.
